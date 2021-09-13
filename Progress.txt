@@ -1,0 +1,4 @@
+Chess App - done 100%
+Hangman - done 100%
+Calculator - done 100%
+Pokemon - done 100%
